@@ -1,5 +1,6 @@
 🦷 Apex Dental Studio — Dental Care & Appointment Management Platform
 Live Deployment: https://dentalcare-appointment-clinic-manag.vercel.app/
+
 📌 1. Executive Summary & Problem Solved
 🎯 What Apex Dental Studio Does
 Apex Dental Studio is a full-stack, modern dental clinic management and patient engagement platform. It seamlessly connects patients with dental care providers by bridging online appointment scheduling, pre-visit medical intake, interactive clinical tooth charting, real-time reception queue management, and AI-powered symptom triage.
