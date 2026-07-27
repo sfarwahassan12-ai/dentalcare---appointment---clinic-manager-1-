@@ -115,3 +115,4 @@ screenshots for my app:
 * https://github.com/sfarwahassan12-ai/dentalcare---appointment---clinic-manager-1-/blob/main/Untitled.png?raw=true
 * https://github.com/sfarwahassan12-ai/dentalcare---appointment---clinic-manager-1-/blob/main/screen.png?raw=true
 https://github.com/sfarwahassan12-ai/dentalcare---appointment---clinic-manager-1-/blob/main/image.png?raw=true
+https://github.com/sfarwahassan12-ai/dentalcare---appointment---clinic-manager-1-/blob/main/shot.png?raw=true
