@@ -130,7 +130,4 @@ lightbulb_tips
 
 
 SCREENSHOTS OF WORK:
-
-
-* 
-https://github.com/sfarwahassan12-ai/dentalcare---appointment---clinic-manager-1-/blob/main/shot.png?raw=true
+https://github.com/sfarwahassan12-ai/dentalcare---appointment---clinic-manager-1-/blob/main/main%20screen.png?raw=true
