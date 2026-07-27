@@ -1,0 +1,6 @@
+{
+  "name": "DentalCare - Appointment & Clinic Manager",
+  "description": "Streamlined dental scheduling and management platform for patients and clinic staff with booking, calendar views, treatment notes, and patient records.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
