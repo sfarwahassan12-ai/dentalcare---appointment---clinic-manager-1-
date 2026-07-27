@@ -109,7 +109,9 @@ Apex Dental Studio is a full-featured, modern web application designed to stream
 ## 📄 License
 
 This project is open-source and licensed under the [Apache-2.0 License](LICENSE).
-screenshots:
+
+
+screenshots for my app:
 * https://github.com/sfarwahassan12-ai/dentalcare---appointment---clinic-manager-1-/blob/main/Untitled.png?raw=true
 * https://github.com/sfarwahassan12-ai/dentalcare---appointment---clinic-manager-1-/blob/main/screen.png?raw=true
 https://github.com/sfarwahassan12-ai/dentalcare---appointment---clinic-manager-1-/blob/main/image.png?raw=true
